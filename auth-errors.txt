@@ -1,0 +1,8 @@
+# Note on push errors:
+
+If you've got 2FA set up on your github account (like I do), you'll see a "remote: Invalid username or password." when committing.
+
+Unless you set up a Personal Access Token (github.com > settings > developer settings > personal access tokens) and use that instead of your github.com password.
+
+You're welcome. :)
+
