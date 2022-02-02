@@ -1,2 +1,0 @@
-# mostcoolteam
-The coolest name
